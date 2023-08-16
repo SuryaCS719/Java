@@ -1,4 +1,4 @@
-// Task-4: Write a basic CRUD application
+// basic CRUD application for student records
 
 import java.util.ArrayList;
 import java.util.List;
